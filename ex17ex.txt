@@ -1,0 +1,6 @@
+This file is a test file for ex17 in LPTHW.
+I am going to put in a few lines of data.
+Just to show some stuff.
+Today is Monday.
+It is August.
+Nice day.
